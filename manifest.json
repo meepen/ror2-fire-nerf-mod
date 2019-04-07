@@ -2,5 +2,8 @@
     "name": "Fire_Nerf_Mod",
     "description": "A mod to nerf fire damage.",
     "website_url": "https://github.com/meepen/ror2-fire-nerf-mod",
-    "version_number": "1.0.0"
+    "version_number": "1.0.0",
+    "dependencies": [
+        "meepen-Meepens_Mod_Loader-0.1.1"
+    ]
 }
