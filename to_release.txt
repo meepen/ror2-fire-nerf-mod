@@ -1,0 +1,2 @@
+bin/Mods/fire-nerf.dll
+bin/Mods/fire-nerf.pdb
